@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551858853274.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1340890499",
+    "id" : "3F67C94E",
+    "lastKnownWriteTime" : 1551859003,
+    "last_content_update" : 1551859003545,
+    "path" : "~/GitHub/Holycarl0118/2019-03-06.Rmd",
+    "project_path" : "2019-03-06.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "1,18",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
